@@ -141,7 +141,7 @@ Future versions of this project could be extended by incorporating additional bu
 
 ## Author
 
-**Sai Sujay**
+**B.Sujay**
 
 Aspiring Data Analyst with an interest in business analytics, data visualization, and data-driven decision-making.
 
